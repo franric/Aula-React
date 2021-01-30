@@ -9,6 +9,7 @@ function App() {
      <Comentario/>
      <Comentario/>
      <Comentario/>
+     <Comentario/>
     </div>
   );
 }
